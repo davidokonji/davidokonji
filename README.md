@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidokonji&show_icons=true&locale=en" alt="davidokonji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidokonji&" alt="davidokonji" /></p>
